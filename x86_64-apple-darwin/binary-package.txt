@@ -1,0 +1,2 @@
+URL https://bitbucket.org/kodi-web/cef/downloads/kodi-web-release-0.0.6_cef_binary_3.2357.1296.gbd0fb1f_macosx64.zip
+URL_MD5 74c2824561c34697b075ce82c5e0fbc1
