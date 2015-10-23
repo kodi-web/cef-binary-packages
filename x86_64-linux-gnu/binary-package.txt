@@ -1,1 +1,1 @@
-https://bitbucket.org/kodi-web/cef/downloads/kodi-web-release-0.0.7_cef_binary_3.2526.1349.g3715588_linux64_package.zip
+https://bitbucket.org/kodi-web/cef/downloads/kodi-web-release-0.0.7_cef_binary_3.2526.1352.g0f2918d_linux64_package.zip
