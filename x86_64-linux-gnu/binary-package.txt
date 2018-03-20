@@ -1,1 +1,1 @@
-https://kodi-web.github.io/kodi-web-release-0.0.8_cef_binary_3.3112.1660.g8c32d82_linux64_package.zip
+https://kodi-web.github.io/kodi-web-release-0.0.8_cef_binary_3.3112.1663.gb9ec034_linux64_package.zip
